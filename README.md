@@ -1,1 +1,1 @@
-# k8s
+ingress-nginx语法错误报警脚本
